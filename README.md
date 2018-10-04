@@ -7,3 +7,8 @@ Essa é a versão final que seria apresentada. Vocês podem abrir o arquivo "ind
 - live-server
 - browsersync
 - ou qualquer outro modo que conheça
+
+
+-- Referências
+
+- Phaser js: https://phaser.io/
